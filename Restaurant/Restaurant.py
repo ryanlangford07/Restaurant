@@ -1,10 +1,10 @@
 menu = {
-    "Pizza": 7.30,
-    "Pie": 3.45,
-    "Burger": 4.50,
-    "Chips": 2.00,
-    "Onion rings": 2.30,
-    "Drink": 1.50
+    "pizza": 7.30,
+    "pie": 3.45,
+    "burger": 4.50,
+    "chips": 2.00,
+    "onion rings": 2.30,
+    "drink": 1.50
 }
 #This is the displayed menu for the customer to browse for what they are looking for. 
 customer_order = []
