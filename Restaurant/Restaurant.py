@@ -24,7 +24,7 @@ while True:
         print("Sorry, that item is not on the menu. Try choosing from the menu")
  #i use an append to allow the user to add what they want after adding other items, so the order does not finish until the user types finished.
 if customer_order:
-    print("\nYour Order:")
+    print("In Your Order:")
     for item in customer_order:
         print(item)
     print(f"Total Cost: £{total_cost:.2f}")
